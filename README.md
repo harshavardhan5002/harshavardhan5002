@@ -100,7 +100,7 @@
 
 📍 Chennai, India  
 📧 harshavardhansomanathan@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/harshavardhan-s)  
+🔗 [LinkedIn](https://www.linkedin.com/in/harshavardhan-somanathan)  
 📂 [My Resume](./Harshavardhan%20CV%20-%2027%20March.pdf)
 
 > _“Innovate passionately. Build fearlessly. Learn endlessly.”_
